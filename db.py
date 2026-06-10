@@ -31,7 +31,7 @@ class Database:
             family_income FLOAT,
             Prediction VARCHAR(50)
         )''')
-        self.cursor.close()
+        # self.cursor.close()
 
 
 # class Database:
